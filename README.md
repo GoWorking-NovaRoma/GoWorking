@@ -1,2 +1,2 @@
-# matricula-tela
-Tela de matricula feita para um projeto da faculdade nova roma
+# GoWorking
+Tela de entrada e matricula feita para um projeto da faculdade nova roma
